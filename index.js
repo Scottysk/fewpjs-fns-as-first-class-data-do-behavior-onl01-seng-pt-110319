@@ -11,4 +11,4 @@ function handleClick(e) {
 
 let greet = "Time";
 
-function 
+function timeGreet
