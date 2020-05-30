@@ -17,4 +17,7 @@ function greet(time) {
   else if (hour >= 12 && hour <= 17) {
     return "Good Afternoon";
   }
+  else (hour > 17) {
+    return "Good Evening";
+  }
 }
