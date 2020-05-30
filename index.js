@@ -9,5 +9,4 @@ function handleClick(e) {
 
 /* End Given Code, don't edit above here...*/
 
-let greet = "time";
-
+let greet = "Time";
