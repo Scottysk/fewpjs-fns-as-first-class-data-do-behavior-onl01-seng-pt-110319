@@ -9,4 +9,6 @@ function handleClick(e) {
 
 /* End Given Code, don't edit above here...*/
 
-function greet(time)
+function greet(time) {
+  let
+}
